@@ -63,4 +63,25 @@ src="https://i.postimg.cc/N0xwF0Ff/2022-08-27-21h13-33.png" />
 
 
 
+<ul>
+<li><h3>Lista de todas las ventas</h3></li>
 
+<img aling="center" width="480" height="350"
+src="https://i.postimg.cc/8Ccqpm2w/2022-08-27-21h20-49.png" />
+
+</ul>
+
+
+<p><b>Lenguajes y herramientas usadas</b></p>
+
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" alt="css" width="60" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1200px-WampServer-logo.svg.png" alt="wampserver" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="80" height="60"/>
+  </a>
+  <br>
+  Bootstrap, HTML5, PHP, CSS, WAMPSERVER, MYSQL
+  
